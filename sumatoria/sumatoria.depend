@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1595716701 source:c:\users\gcrescencio\desktop\erick\sumatoria\main.cpp
+	<iostream>
+	<random>
+	<math.h>
+	<iomanip>
+

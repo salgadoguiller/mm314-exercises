@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596252491 source:c:\users\gcrescencio\desktop\erick\matrices\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+
